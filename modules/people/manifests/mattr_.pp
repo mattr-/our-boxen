@@ -20,4 +20,4 @@ class people::mattr_ {
       'the_silver_searcher',
     ]:
   }
-
+}
