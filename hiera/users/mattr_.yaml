@@ -1,4 +1,6 @@
 ---
+boxen::config::srcdir: "/Users/matt/Code"
+
 ruby::version::alias:
   "1.9.3": "1.9.3-p551"
   "2.0.0": "2.0.0-p598"
