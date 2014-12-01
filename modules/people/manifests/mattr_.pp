@@ -11,8 +11,7 @@ class people::mattr_ {
   ruby::version { '2.1.5': }
 
   #phantomjs
-  phantomjs::version { '1.9.8': }
-  phantomjs::global { '1.9.8': }
+  phantomjs::global { '1.9.0': }
 
   #moar packages!
   package {
