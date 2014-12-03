@@ -60,3 +60,4 @@ github "xquartz",     "1.2.1"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 github "postgresql",  "3.0.1"
+github "redis",       "3.1.0"
