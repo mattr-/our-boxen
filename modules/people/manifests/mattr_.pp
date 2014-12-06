@@ -17,6 +17,7 @@ class people::mattr_ {
   package {
     [
       'the_silver_searcher',
+      'ctags',
     ]:
   }
 }
