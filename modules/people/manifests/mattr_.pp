@@ -20,6 +20,7 @@ class people::mattr_ {
       'ctags',
       'imagemagick',
       'gs',
+      'elixir',
     ]:
   }
 }
