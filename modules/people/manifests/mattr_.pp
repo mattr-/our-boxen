@@ -21,6 +21,7 @@ class people::mattr_ {
       'imagemagick',
       'gs',
       'elixir',
+      'mr',
     ]:
   }
 }
