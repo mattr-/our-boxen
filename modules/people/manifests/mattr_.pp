@@ -22,6 +22,7 @@ class people::mattr_ {
       'gs',
       'elixir',
       'mr',
+      'vim',
     ]:
   }
 }
