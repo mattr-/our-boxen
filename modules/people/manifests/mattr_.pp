@@ -1,5 +1,6 @@
 class people::mattr_ {
   include phantomjs
+  include mysql
 
   class { 'nodejs::global': version => 'v0.10.33' }
 
